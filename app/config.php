@@ -6,5 +6,4 @@ $region = $commonRegions[rand(0,3)];
 $maxPop = 10;
 $maxLat = 7;
 $maxSearch =10; 
-$q = 'Rich';
 
